@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mys73r10us
 - 👀 I’m interested in CyberSecurity, especially cryptography
-- 🌱 I’m currently learning basic of network
+- 🌱 I’m currently learning at Bina Nusantara University, major of Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
